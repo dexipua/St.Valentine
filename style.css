@@ -5,6 +5,7 @@ body, .main {
     align-items: center;
     height: 100vh;
     margin: 25px;
+    border: 20px;
     font-family: 'Poppins', sans-serif;
 }
 
